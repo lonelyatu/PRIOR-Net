@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May  4 15:31:00 2018
 
-@author: hudada
-"""
 import os
 import glob
 import time
