@@ -34,7 +34,7 @@ Scipy 1.2.1
 tigre (https://github.com/CERN/TIGRE)
 
 # Description
-Due to the limitation, we only provide one patient to train and one patient to test. You can use your only datasets to train and test.
+Due to the limitation, we only provide one patient to train and one patient to test. You can use your own datasets to train and test.
 
 
 
