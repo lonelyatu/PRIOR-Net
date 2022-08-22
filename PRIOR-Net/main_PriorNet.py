@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 21 20:41:26 2017
-主函数
-@author: hudada
+@author: dianlin@seu.edu.cn
 """
 import os
 import glob
