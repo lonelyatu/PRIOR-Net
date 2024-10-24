@@ -57,7 +57,7 @@ def ResBlock(input, num=64, name='res', train_sign=True):
 
 def Dense2D(inputs, prior, train_sign=True, reuse=None):
     Num = 24
-    f1, f2, f3, f4, f5 = Dense2DPrior(prior, False)
+    f1, f2, f3, f4, f5 = Dense2DPrior(prior, train_sign)
     with tf.name_scope('HDLNetDense2D'):
         with tf.variable_scope('HDLNetDense2D',reuse=reuse):
             
